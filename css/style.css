@@ -1,0 +1,103 @@
+body {
+    background-color: #fbefcc !important;
+}
+#nav-bar {
+    background-color: #e0876a;
+    border-radius: 0 0 10px 10px;
+    margin: auto 10px;
+    
+}
+.col-5 {
+    margin-right: 9rem !important;
+}
+.navbar-brand h1 {
+    font-weight: 700;
+    font-size: 200%;
+}
+.nav-link{
+    font-size: 1.2rem;
+}
+.logo {
+    width: 9rem;
+    height: 9rem;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.active:hover{
+    color: #fbefcc !important;
+}
+#about {
+    background-color: #fbefcc;
+    margin: auto 10px;
+}
+.container {
+    max-width: 95% !important;
+  padding: 10px;
+   margin: 20px auto !important;
+   
+
+}
+.middle-box h2 {
+    line-height: 3;
+    
+}
+.middle-box p {
+    line-height: 2;
+    text-align: justify;
+    text-justify:inter-word;
+    
+}
+.middle-box {
+    border: 5px;
+    background-color: #f9ccac;
+    border-radius: 10px;
+    margin: 20px auto;
+    padding: 10px 20px;
+    width: 98%;
+}
+hr {
+   padding: 1px 0 ;
+   margin: 2.5rem 0 !important;
+}
+
+#syllabus h2 {
+    margin: 0 auto 50px auto;
+    text-align: center;
+}
+#syllabus h3 {
+    margin: 20px 20px;
+    padding: 10px 20px;
+    text-align: center;
+}
+#syllabus p {
+    text-align: justify;
+    text-justify:inter-word;
+}
+.section1 , .section2, .section3, .section4 {
+    margin: 20px auto;
+    padding: 10px 20px;
+    width: 98%;
+    line-height: 2;
+}
+.section1 , .section4 {
+    padding-top: 10px;
+    background-color: #f4a688;
+    border-radius: 10px;
+}
+.section3 , .section2 {
+    padding-top: 10px;
+    background-color: #f9ccac;
+    border-radius: 10px;
+}
+.section1 , .section3 {
+    margin-right: 2.5rem;
+}
+
+
+.section1:hover , .section2:hover , .section3:hover , .section4:hover {
+    background-color: #e0876a;
+}
+
+
+
